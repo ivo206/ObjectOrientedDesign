@@ -1,5 +1,5 @@
 # ObjectOrientedDesign
-The following are a set of object oriented desing exercises that I like to do to in my spare time to sharpen my software development skills. Writing code is a craftsmenship, the more you practice the better you will get at writing code. 
+The following are a set of object oriented desing exercises that I like to do in my spare time to sharpen my software development skills. Writing code is a craftsmenship, the more you practice the better you will get at writing code. 
 
 # 1. Design a blackjack game with the following system requirements:
 
