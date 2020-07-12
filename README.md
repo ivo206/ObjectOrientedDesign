@@ -40,8 +40,8 @@ Split Hands. When dealt two cards of the same rank, the player can split the car
 
 Bets
 
-Ante: This is the initial bet and is mandatory to play.
-Insurance: This bet is offered only when the dealer shows an ace. The amount must be half the ante.
-Split: This can be thought of as a bet that is offered only when the player’s hand has two cards of equal rank. The amount of the bet must match the original ante.
-Double: This can be thought of as a bet that is offered instead of taking an ordinary hit. The amount of the bet must match the original ante.
+- Ante: This is the initial bet and is mandatory to play.
+- Insurance: This bet is offered only when the dealer shows an ace. The amount must be half the ante.
+- Split: This can be thought of as a bet that is offered only when the player’s hand has two cards of equal rank. The amount of the bet must match the original ante.
+- Double: This can be thought of as a bet that is offered instead of taking an ordinary hit. The amount of the bet must match the original ante.
 
