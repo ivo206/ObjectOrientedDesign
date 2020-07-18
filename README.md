@@ -45,3 +45,20 @@ Bets
 - Split: This can be thought of as a bet that is offered only when the player’s hand has two cards of equal rank. The amount of the bet must match the original ante.
 - Double: This can be thought of as a bet that is offered instead of taking an ordinary hit. The amount of the bet must match the original ante.
 
+# 2. Design an ATM
+# Requirements and Goals of the System:
+The main components of the ATM that will affect interactions between the ATM and its users are:
+1. Card reader: to read the users’ ATM cards.
+2. Keypad: to enter information into the ATM e.g. PIN. cards.
+3. Screen: to display messages to the users.
+4. Cash dispenser: for dispensing cash.
+5. Deposit slot: For users to deposit cash or checks.
+6. Printer: for printing receipts.
+7. Communication/Network Infrastructure: it is assumed that the ATM has a communication infrastructure to communicate with the bank upon any transaction or activity.
+
+The user can have two types of accounts: 1) Checking, and 2) Savings, and should be able to perform the following five transactions on the ATM:
+1. Balance inquiry: To see the amount of funds in each account.
+2. Deposit cash: To deposit cash.
+3. Deposit check: To deposit checks.
+4. Withdraw cash To withdraw money from their checking account.
+5. Transfer funds: To transfer funds to another account.
