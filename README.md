@@ -62,3 +62,15 @@ The user can have two types of accounts: 1) Checking, and 2) Savings, and should
 3. Deposit check: To deposit checks.
 4. Withdraw cash To withdraw money from their checking account.
 5. Transfer funds: To transfer funds to another account.
+
+How ATM works? 
+
+The ATM will be managed by an operator, who operates the ATM and refills it with cash and receipts. The ATM will serve one customer at a time and should not shut down while serving. To begin a transaction in the ATM, the user should insert their ATM card, which will contain their account information. Then, the user should enter their Personal Identification Number (PIN) for authentication. The ATM will send the user’s information to the bank for authentication; without authentication, the user cannot perform any transaction/service.
+
+The user’s ATM card will be kept in the ATM until the user ends a session. For example, the user can end a session at any time by pressing the cancel button, and the ATM Card will be ejected. The ATM will maintain an internal log of transactions that contains information about hardware failures; this log will be used by the ATM operator to resolve any issues.
+
+1. Identify the system user through their PIN.
+2. In the case of depositing checks, the amount of the check will not be added instantly to the user account; it is subject to manual verification and bank approval.
+3. It is assumed that the bank manager will have access to the ATM’s system information stored in the bank database.
+4. It is assumed that user deposits will not be added to their account immediately because it will be subject to verification by the bank.
+5. It is assumed the ATM card is the main player when it comes to security; users will authenticate themselves with their debit card and security pin.
